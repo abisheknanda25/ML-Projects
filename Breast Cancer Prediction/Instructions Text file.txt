@@ -1,0 +1,19 @@
+
+Libraries:
+
+pip install pandas, numpy, scikit learn
+
+
+Dataset:
+
+The code expects a file called: Breast_Cancer.csv
+and it should be placed in /content/ if running in Google Colab, or in the same folder as the notebook if running locally (then change the
+path accordingly).
+
+Instructions to Run:
+
+Open Google Colab
+Upload the notebook (code.ipynb)
+Upload the dataset (Breast_Cancer.csv) to Colab
+Ensure the dataset filename matches exactly (Breast_Cancer.csv)
+Run cells in order (Shift + Enter)
