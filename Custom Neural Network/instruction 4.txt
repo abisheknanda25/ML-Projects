@@ -1,0 +1,28 @@
+1.Open Jupyter Notebook (from Anaconda or terminal):jupyter notebook
+
+2.Navigate to the folder containing  project4code.ipynb
+
+3.Open the notebook.
+
+4.Click “Run All” from the Kernel menu, or run each cell sequentially (Shift + Enter).
+
+The notebook will:
+
+Load the housing dataset
+
+Define the neural network class using NumPy only
+
+Train the model using 5-fold and 10-fold cross-validation
+
+Print the MSE (loss) for each experiment case
+
+How to Run in Google Colab:
+
+1.Go to https://colab.research.google.com
+
+2.Click File → Upload notebook and upload project4code.ipynb
+
+3.Upload housing (1).csv using:from google.colab import files
+files.upload()
+
+4.Run all cells (Runtime → Run all).
